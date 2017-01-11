@@ -24,8 +24,8 @@
 		21FCE54E1E2639DD0032F236 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21FCE5511E2639DD0032F236 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21FCE5531E2639DD0032F236 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		21FCE5591E2644590032F236 /* DESIGN.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = DESIGN.md; path = "../../../../Downloads/finalproject_old-master/DESIGN.md"; sourceTree = "<group>"; };
-		21FCE55B1E26445F0032F236 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "../../../../Downloads/finalproject_old-master/README.md"; sourceTree = "<group>"; };
+		21FCE5591E2644590032F236 /* DESIGN.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = DESIGN.md; path = "../../../Downloads/finalproject_old-master/DESIGN.md"; sourceTree = "<group>"; };
+		21FCE55B1E26445F0032F236 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "../../../Downloads/finalproject_old-master/README.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +42,8 @@
 		21FCE53B1E2639DD0032F236 = {
 			isa = PBXGroup;
 			children = (
+				21FCE55B1E26445F0032F236 /* README.md */,
+				21FCE5591E2644590032F236 /* DESIGN.md */,
 				21FCE5461E2639DD0032F236 /* finalproject */,
 				21FCE5451E2639DD0032F236 /* Products */,
 			);
@@ -60,8 +62,6 @@
 			children = (
 				21FCE5471E2639DD0032F236 /* AppDelegate.swift */,
 				21FCE5491E2639DD0032F236 /* ViewController.swift */,
-				21FCE55B1E26445F0032F236 /* README.md */,
-				21FCE5591E2644590032F236 /* DESIGN.md */,
 				21FCE54B1E2639DD0032F236 /* Main.storyboard */,
 				21FCE54E1E2639DD0032F236 /* Assets.xcassets */,
 				21FCE5501E2639DD0032F236 /* LaunchScreen.storyboard */,
